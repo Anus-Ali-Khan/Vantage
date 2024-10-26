@@ -3,7 +3,10 @@ import React from "react";
 
 const HeroSection = () => {
   return (
-    <div className="flex-col justify-center items-center text-white w-[80%] text-center m-auto mt-20 ">
+    <div
+      className="flex-col justify-center items-center text-white w-[80%] text-center m-auto mt-20 "
+      id="vantagecrm"
+    >
       {heroContent.map((item) => (
         <div className="" key={item.title}>
           <h1 className="text-[36px] leading-[55px] font-[600] ">

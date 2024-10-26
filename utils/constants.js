@@ -5,19 +5,19 @@ export const navLinks = [
   },
   {
     title: "Vantage CRM",
-    href: "/vantagecrm",
+    href: "#vantagecrm",
   },
   {
     title: "Features",
-    href: "/features",
+    href: "#features",
   },
   {
     title: "Pricing",
-    href: "/pricing",
+    href: "#pricing",
   },
   {
     title: "Hire Expert",
-    href: "/hireexpert",
+    href: "#hireexpert",
   },
 ];
 

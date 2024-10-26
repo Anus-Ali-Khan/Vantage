@@ -24,7 +24,10 @@ import logo6 from "./../public/assets/6.webp";
 const FeaturesSection = () => {
   return (
     <>
-      <div className="bg-gradient-to-br from-[#5311A7] to-[#932BFb] text-white">
+      <div
+        className=" bg-gradient-to-br from-[#5311A7] to-[#932BFb] text-white"
+        id="features"
+      >
         <div className="w-[90%] mx-auto py-10">
           <div className="flex flex-col items-center gap-y-4">
             <h3 className="text-2xl opacity-95">Features</h3>

@@ -3,7 +3,7 @@ import { RxDotFilled } from "react-icons/rx";
 
 const PaymentPlan = () => {
   return (
-    <div className="bg-[#ecebfc]">
+    <div className="bg-[#ecebfc]" id="pricing">
       <div className="w-[90%] mx-auto py-10">
         <div className="flex flex-col gap-y-10">
           <div className="flex flex-col items-center">
