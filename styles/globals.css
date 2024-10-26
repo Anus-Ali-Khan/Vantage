@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+html {
+    scroll-behavior: smooth;
+}
+
 
 .slick-slide {
     transform: scale(0.8);
